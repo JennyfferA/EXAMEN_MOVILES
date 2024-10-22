@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1327978451",
+    "project_id": "moviles-dfdbb",
+    "storage_bucket": "moviles-dfdbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1327978451:android:4fee0de858c33de3e84126",
+        "android_client_info": {
+          "package_name": "com.example.examen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGrQwphOjbLSzaQ79iF27vDb7OzE8qBnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
